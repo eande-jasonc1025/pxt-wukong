@@ -1,8 +1,9 @@
 // jwc 23-1004-2020
-
 /**
 * Functions to WuKong multifunctional expansion board by ELECFREAKS Co.,Ltd.
 */
+// jwc push block below in 'Advanced' since Quest will override
+//% advanced=true
 //% color=#ff7f24  icon="\uf0c2" block="wuKong" blockId="wuKong"
 namespace wuKong {
     const board_address = 0x10
