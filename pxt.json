@@ -5,7 +5,6 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:elecfreaks/pxt-neopixel",
         "microphone": "*"
     },
     "files": [
@@ -13,7 +12,8 @@
         "README.md",
         "_locales/zh/wuKong-jsdoc-strings.json",
         "_locales/zh/wuKong-strings.json",
-        "_locales/es-ES/wuKong-strings.json"
+        "_locales/es-ES/wuKong-strings.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
