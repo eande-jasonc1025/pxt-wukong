@@ -1,6 +1,6 @@
 {
     "name": "pxt-wuKong--ForkedFrom_Wukong",
-    "version": "1.6.0",
+    "version": "2.0.0",
     "description": "micro:bit multifunctional expansion board WuKong",
     "license": "MIT",
     "dependencies": {
